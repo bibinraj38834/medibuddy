@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866168352276",
+    "project_id": "medibuddy-7f7a3",
+    "storage_bucket": "medibuddy-7f7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866168352276:android:47f0c79754540ca81f4101",
+        "android_client_info": {
+          "package_name": "com.example.medibuddy0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866168352276-u7cc1qsqvbr57o0g6o7iui0mk25quuno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZZ2JRyaqLtP4JY9XjJfVGWnZxmYkS3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866168352276-u7cc1qsqvbr57o0g6o7iui0mk25quuno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
